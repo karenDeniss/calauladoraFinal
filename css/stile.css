@@ -1,0 +1,83 @@
+
+.boto{
+  background-color: rgb(209, 210, 219);
+  color:rgb(111, 98, 98) ;
+  border:#e0e1e1;
+  width: 20%;
+  height: 47px;
+  font-size: 30px;
+  border-radius: 200px;
+}
+
+.botov{
+  background-color: rgb(209, 210, 219);
+  color:rgb(22, 189, 56) ;
+  border:#e0e1e1;
+  width: 20%;
+  height: 47px;
+  font-size: 30px;
+  border-radius: 200px;
+}
+
+.botov2{
+  background-color: rgb(22, 189, 56);
+  color:rgb(234, 239, 235) ;
+  border:#e0e1e1;
+  width: 20%;
+  height: 47px;
+  font-size: 30px;
+  border-radius: 200px;
+}
+
+.botor{
+  background-color: rgb(209, 210, 219);
+  color:rgb(215, 8, 8) ;
+  border:#e0e1e1;
+  width: 20%;
+  height: 47px;
+  font-size: 30px;
+  border-radius: 200px;
+}
+
+
+.card{
+  text-align: center;
+  margin: 10px auto;
+  align-items: center;
+  justify-content: center;
+  min-height: 150vh;
+
+}
+
+/*caja para poner datos y devuelve resultado*/
+.caja1{
+  font-size: 15px;
+  height: 50px;
+  width: 220px;
+}
+
+.caja{
+  font-size: 15px;
+  border-radius: 17px;
+  height: 50px;
+  width: 220px;
+  background-color: #e0e1e1;
+}
+
+form{
+  width: 200px;
+  padding: 40px;
+  margin: auto;
+  background-color: rgb(233, 239, 232);
+  border-radius: 20px;
+  margin-top: 8%;
+  justify-content: center;
+}
+
+h2{
+
+justify-content: center;
+}
+
+
+
